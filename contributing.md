@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Make sure the company is put in the correct focus area and fundraising level.
+- Sources of the fundraising are provided.
+- All links are working successfully.
 
 Thank you for your suggestions!
 
