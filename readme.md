@@ -766,7 +766,7 @@ Fundraised $20MM according to [Crunchbase](https://www.crunchbase.com/organizati
 - N/A
 
 
-## Vertial Application
+## Vertical Application
 
 A vertical application is software that is defined and built according to a user’s specific requirements in order to achieve specific functions and processes that are unique to that user. It is usually customized for a target enterprise or organization in order to meet its own special needs.
 
