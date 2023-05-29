@@ -703,6 +703,11 @@ Fundraised around $12 - 15MM according to [Crunchbase](https://www.crunchbase.co
 
 Fundraised around $8MM according to [Pitchbook](https://pitchbook.com/profiles/company/481774-87?utm_source=google&utm_medium=cpc&utm_campaign=Profile-Previews-EU&adgroup=Profile-Previews-Company-Profiles&utm_term=&device=c&utm_content=&_bk=&_bt=572931937134&_bm=&_bn=g&_bg=118671624392&kwdaud=dsa-1046244901564&sfid=-dc_pcrid_572931937134_pkw__pmt__slid__productid__pgrid_118671624392_ptaid_dsa-1046244901564&gclid=CjwKCAjw5pShBhB_EiwAvmnNVxmLfaYzbLRoVoBtfFldzai3WI80D2yzJ_HDDqyLfN1woxdVizcrLBoCEBcQAvD_BwE#overview)
 
+- [Wilco Sierra](https://trywilco.com/sierra) - "Meet Sierra! This Wilco experiment is a first-of-its-kind platform that generates challenges for software engineers using AI. Just tell it what you want to learn, and it will create personalized educational content for you."
+
+Fundraised around $7MM according to [Crunchbase](https://www.crunchbase.com/organization/wilco-78d1) 
+
+
 #### $16 - 40MM
 
 - [Codacy](https://www.codacy.com) - "An automated code review tool that helps developers save time in code reviews and manage technical debt."
