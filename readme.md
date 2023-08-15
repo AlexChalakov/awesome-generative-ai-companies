@@ -2,7 +2,7 @@
 
 > A curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount. 
 
-It is a thorough researched list of companies that indulge into Generative AI with over $5MM raised as of April 2023.
+It is a thorough researched list of companies that indulge into Generative AI with over $5MM raised as of August 2023.
 It is split into three main categories: Horizontal Application, Vertical Application and Enabling Infrastructure.
 For all of the companies, due dilligence has been done and sources have been provided where available.
 
@@ -114,7 +114,7 @@ Fundraised $16MM according to [Pitchbook](https://pitchbook.com/profiles/company
 
 #### $41 - 100M
 
-- [Forethought](https://forethought.ai) - "Game-changing solutions that empower customers and employees with human-centered AI that provides answers, streamlines work, and makes life easier"
+- [Forethought](https://forethought.ai) - "Game-changing solutions that empower customers and employees with human-centered AI that provides answers, streamlines work, and makes life easier."
 
 Fundraised $92MM according to [Crunchbase](https://www.crunchbase.com/organization/forethought-7dc2) and [DealRoom](https://app.dealroom.co/companies/forethought)
 
@@ -148,7 +148,7 @@ Fundraised around $125 - 131M according to [Crunchbase](https://www.crunchbase.c
 
 Fundraised around $100 - 110M according to [Crunchbase](https://www.crunchbase.com/organization/linguee) and [DealRoom](https://app.dealroom.co/companies/deepl)
 
-- [Haptik](https://www.haptik.ai) - "Upgrade your customer experience with Haptik’s Intelligent Virtual Assistants, driving ROI at every stage of the lifecycle."
+- [Haptik](https://www.haptik.ai) - "Upgrade your customer experience with Haptik's Intelligent Virtual Assistants, driving ROI at every stage of the lifecycle."
 
 Fundraised around $100M according to [Pitchbook](https://pitchbook.com/profiles/company/85854-70#overview)
 
@@ -156,7 +156,7 @@ Fundraised around $100M according to [Pitchbook](https://pitchbook.com/profiles/
 
 #### $5 - 15MM
 
-- [Tenyx](https://www.tenyx.com/) - "Developing the next generation of intelligent machines based on proprietary neuroscience-inspired AI technology.” 
+- [Tenyx](https://www.tenyx.com/) - "Developing the next generation of intelligent machines based on proprietary neuroscience-inspired AI technology." 
 
 Fundraised around $15MM according to [Crunchbase](https://www.crunchbase.com/organization/tenyx-inc) and [DealRoom](https://app.dealroom.co/companies/tenyx) 
 
@@ -164,71 +164,71 @@ Fundraised around $15MM according to [Crunchbase](https://www.crunchbase.com/org
 
 Fundraised around $12 - 15MM according to [Crunchbase](https://www.crunchbase.com/organization/secondnature-ai/company_financials) and [DealRoom](https://app.dealroom.co/companies/second_nature)
 
-- [Murf.AI](https://murf.ai/) - " A tool with the ability to sync high quality voice overs to video. Go from text to speech with a versatile AI voice generator.” 
+- [Murf.AI](https://murf.ai/) - " A tool with the ability to sync high quality voice overs to video. Go from text to speech with a versatile AI voice generator."
 
 Fundraised around $11.5MM according to [Crunchbase](https://www.crunchbase.com/organization/murf-ai) and [DealRoom](https://app.dealroom.co/companies/murf_ai) 
 
-- [Wellsaid](https://wellsaidlabs.com/) - "AI voice platform - thousands of companies use it to create engaging content and experiences, saving time and money — without compromising quality.” 
+- [Wellsaid](https://wellsaidlabs.com/) - "AI voice platform - thousands of companies use it to create engaging content and experiences, saving time and money — without compromising quality."
 
 Fundraised around $10MM according to [Crunchbase](https://www.crunchbase.com/organization/wellsaid-labs) and [DealRoom](https://app.dealroom.co/companies/wellsaid_labs)
 
-- [Loora](https://loora.ai/) - "A personal AI English tutor - talks and sounds like a real person.” 
+- [Loora](https://loora.ai/) - "A personal AI English tutor - talks and sounds like a real person."
 
 Fundraised around $9.2MM according to [PitchBook](https://pitchbook.com/profiles/company/463542-76#funding)  
 
-- [Amberscript](https://www.amberscript.com/en/) - "Speech-to-text all your transcription and subtitling needs with generative AI and the best language professionals work side by side.” 
+- [Amberscript](https://www.amberscript.com/en/) - "Speech-to-text all your transcription and subtitling needs with generative AI and the best language professionals work side by side." 
 
 Fundraised around $8.7 - 9.5MM according to [Crunchbase](https://www.crunchbase.com/organization/amberscript) and [DealRoom](https://app.dealroom.co/companies/amberscript)
 
-- [Podcastle](https://podcastle.ai/) - "Studio-quality recording, AI-powered editing, and seamless exporting – all in a single web-based platform.” 
+- [Podcastle](https://podcastle.ai/) - "Studio-quality recording, AI-powered editing, and seamless exporting – all in a single web-based platform." 
 
 Fundraised around $8.8MM according to [Crunchbase](https://www.crunchbase.com/organization/podcastle) and [DealRoom](https://app.dealroom.co/companies/podcastle)   
 
-- [OneAI](https://www.oneai.com/) - "API-first, language AI service built for developers.” 
+- [OneAI](https://www.oneai.com/) - "API-first, language AI service built for developers." 
 
 Fundraised $8MM according to [Crunchbase](https://www.crunchbase.com/organization/one-ai) and [DealRoom](https://app.dealroom.co/companies/one_ai)
 
-- [Lovo](https://lovo.ai/) - "AI and machine learning text-to-speech voiceover speech software platform.” 
+- [Lovo](https://lovo.ai/) - "AI and machine learning text-to-speech voiceover speech software platform." 
 
 Fundraised around $6.5 - 6.9MM according to [Crunchbase](https://www.crunchbase.com/organization/lovo-36ff) and [DealRoom](https://app.dealroom.co/companies/lovo_1)   
 
-- [Vozy](https://www.vozy.co/) - "Evolving conversations at scale with conversational AI - automate your voice operational processes and turn your customer calls into the competitive advantage of your business.” 
+- [Vozy](https://www.vozy.co/) - "Evolving conversations at scale with conversational AI - automate your voice operational processes and turn your customer calls into the competitive advantage of your business." 
 
 Fundraised around $5 - 8.1MM according to [Crunchbase](https://www.crunchbase.com/organization/vozy-inc) and [DealRoom](https://app.dealroom.co/companies/vozy) 
 
 - [Replica Studios](https://replicastudios.com/) - "AI voice actors
-for games, film & the metaverse.” 
+for games, film & the metaverse." 
 
 Fundraised around $5.4MM according to [Crunchbase](https://www.crunchbase.com/organization/replica-studios) and [DealRoom](https://app.dealroom.co/companies/replica_studios)   
 
 
 #### $16 - 40MM
 
-- [Papercup](https://www.papercup.com/) - "Translates videos using AI by generating voices that sound like the original speaker.” 
+- [Papercup](https://www.papercup.com/) - "Translates videos using AI by generating voices that sound like the original speaker." 
 
 Fundraised $33.2MM according to [Crunchbase](https://www.crunchbase.com/organization/papercup-ai) and [DealRoom](https://app.dealroom.co/companies/papercup_1)
 
-- [Elise AI](https://www.eliseai.com/) - "An AI company revolutionalizing the housing industry, with the ultimate goal of making good housing more accessible.” 
+- [Elise AI](https://www.eliseai.com/) - "An AI company revolutionalizing the housing industry, with the ultimate goal of making good housing more accessible." 
 
 Fundraised around $30 - 31.9MM according to [Crunchbase](https://www.crunchbase.com/organization/meetelise) and [DealRoom](https://app.dealroom.co/companies/meetelise) 
 
-- [Skit](https://skit.ai/) - "Augmented voice intelligence platform that helps businesses modernize their contact centers and CX.” 
+- [Skit](https://skit.ai/) - "Augmented voice intelligence platform that helps businesses modernize their contact centers and CX." 
 
 Fundraised around $28.1 - 30.1MM according to [Crunchbase](https://www.crunchbase.com/organization/vernacular-ai) and [DealRoom](https://app.dealroom.co/companies/vernacular_ai)
 
-- [Corti](https://www.corti.ai/) - "Machine learning company that helps emergency departments to detect critical illnesses like cardiac arrest in real time.” 
+- [Corti](https://www.corti.ai/) - "Machine learning company that helps emergency departments to detect critical illnesses like cardiac arrest in real time." 
 
 Fundraised around $24.9 - 30.9MM according to [Crunchbase](https://www.crunchbase.com/organization/corti) and [DealRoom](https://app.dealroom.co/companies/corti_1)
 
-- [Symbl.ai](https://symbl.ai/) - "Integrate real-time speech-to-text and context understanding, powered by advanced deep learning models, to enable live captioning, track user intents, generate summaries and more from unstructured conversation data.” 
+- [Symbl.ai](https://symbl.ai/) - "Integrate real-time speech-to-text and context understanding, powered by advanced deep learning models, to enable live captioning, track user intents, generate summaries and more from unstructured conversation data." 
 
 Fundraised around $23.5 - 23.6MM according to [Crunchbase](https://www.crunchbase.com/organization/rammer-ai) and [DealRoom](https://app.dealroom.co/companies/rammer_ai)
 
-- [Voicemod](https://www.voicemod.net/) - "A voice-changing software for gamers, content creators, and vtubers.” 
+- [Voicemod](https://www.voicemod.net/) - "A voice-changing software for gamers, content creators, and vtubers." 
 
 Fundraised around $23 - 23.1MM according to [Crunchbase](https://www.crunchbase.com/organization/voicemod-s-l) and [DealRoom](https://app.dealroom.co/companies/voicemod) 
 
-- [Deepdub.ai](https://deepdub.ai/) - "Provides an AI-based dubbing service for entertainment content.” 
+- [Deepdub.ai](https://deepdub.ai/) - "Provides an AI-based dubbing service for entertainment content." 
 
 Fundraised $20MM according to [Crunchbase](https://www.crunchbase.com/organization/deepdub-ai) and [DealRoom](https://app.dealroom.co/companies/deepdub)
 
@@ -238,19 +238,19 @@ Fundraised around $17 - 27MM according to [Crunchbase](https://www.crunchbase.co
 
 #### $41 - 100M
 
--[Descript](https://www.descript.com/?utm_source=microsoft&utm_medium=paid_search&utm_campaign=602150763&utm_content=&utm_device=c&utm_term=brand_exact&msclkid=d0ef62bbebda120f78ab0693b01df031) - "Collaborative audio and video editor that transcribes audio to a text document for editing.” 
+-[Descript](https://www.descript.com/?utm_source=microsoft&utm_medium=paid_search&utm_campaign=602150763&utm_content=&utm_device=c&utm_term=brand_exact&msclkid=d0ef62bbebda120f78ab0693b01df031) - "Collaborative audio and video editor that transcribes audio to a text document for editing." 
 
 Fundraised $100MM according to [Crunchbase](https://www.crunchbase.com/organization/descript) and [DealRoom](https://app.dealroom.co/companies/descript)
 
-- [Ushur](https://ushur.com/) - "Cloud-based AI company that automates service workflows in both the backend process and conversational interfaces.” 
+- [Ushur](https://ushur.com/) - "Cloud-based AI company that automates service workflows in both the backend process and conversational interfaces." 
 
 Fundraised $92MM according to [Crunchbase](https://www.crunchbase.com/organization/ushur-inc) and [DealRoom](https://app.dealroom.co/companies/ushur)
 
-- [Deepgram](https://deepgram.com/) - "An AI Speech Platform that provides developers with a simple to use Speech-to-Text API.”
+- [Deepgram](https://deepgram.com/) - "An AI Speech Platform that provides developers with a simple to use Speech-to-Text API."
 
 Fundraised $85.9MM according to [Crunchbase](https://www.crunchbase.com/organization/deepgram) and [DealRoom](https://app.dealroom.co/companies/deepgram)
 
-- [PolyAI](https://poly.ai/) - "Develops a machine learning platform for conversational artificial intelligence.”
+- [PolyAI](https://poly.ai/) - "Develops a machine learning platform for conversational artificial intelligence."
 
 Fundraised around $66 - 68.4MM according to [Crunchbase](https://www.crunchbase.com/organization/poly-ai) and [DealRoom](https://app.dealroom.co/companies/poly_ai) 
 
@@ -258,19 +258,19 @@ Fundraised around $66 - 68.4MM according to [Crunchbase](https://www.crunchbase.
 
 Fundraised around $58 - 63MM according to [Crunchbase](https://www.crunchbase.com/organization/assemblyai) and [DealRoom](https://app.dealroom.co/companies/assemblyai)
 
-- [Speak](https://www.speak.com/) - "Talk about anything and get instant feedback from the world’s most advanced AI language tutor.” 
+- [Speak](https://www.speak.com/) - "Talk about anything and get instant feedback from the world’s most advanced AI language tutor." 
 
 Fundraised $58.4MM according to [DealRoom](https://app.dealroom.co/companies/speak_3)
 
-- [Deepbrain AI](https://www.deepbrain.io/) - "DeepBrain AI video synthesis solutions leverage the power of Artificial Intelligence to quickly create lifelike human-based AI avatars that inform, solve and guide users through thousands of possible scenarios and real time interactions.”
+- [Deepbrain AI](https://www.deepbrain.io/) - "DeepBrain AI video synthesis solutions leverage the power of Artificial Intelligence to quickly create lifelike human-based AI avatars that inform, solve and guide users through thousands of possible scenarios and real time interactions."
  
 Fundraised around $52 - 52.1MM according to [Crunchbase](https://www.crunchbase.com/organization/moneybrain) and [DealRoom](https://app.dealroom.co/companies/deepbrain)
 
-- [Balto](https://www.balto.ai/) - "Uniting agents with industry-leading AI for behavior change that delivers happier customers, increased revenue, and perfect conversations.”
+- [Balto](https://www.balto.ai/) - "Uniting agents with industry-leading AI for behavior change that delivers happier customers, increased revenue, and perfect conversations."
 
 Fundraised around $51.3 - 51.9MM according to [Crunchbase](https://www.crunchbase.com/organization/balto-software) and [DealRoom](https://app.dealroom.co/companies/balto_software)
 
-- [Riverside](https://riverside.fm/transcription) - "An audio-video recording platform for broadcast media and podcasts” 
+- [Riverside](https://riverside.fm/transcription) - "An audio-video recording platform for broadcast media and podcasts." 
 
 Fundraised $47MM according to [Crunchbase](https://www.crunchbase.com/organization/riverside-fm/company_financials) and [DealRoom](https://app.dealroom.co/companies/riverside_fm)
 
@@ -280,19 +280,19 @@ Fundraised $47MM according to [Crunchbase](https://www.crunchbase.com/organizati
 
 Fundraised $450M according to [Crunchbase](https://www.crunchbase.com/organization/dialpad) and [DealRoom](https://app.dealroom.co/companies/dialpad)
 
-- [Asapp](https://www.asapp.com/) - "Team of scientists, software engineers and designers,solving challenges in machine learning and natural language processing.”
+- [Asapp](https://www.asapp.com/) - "Team of scientists, software engineers and designers,solving challenges in machine learning and natural language processing."
 
 Fundraised $380MM according to [Crunchbase](https://www.crunchbase.com/organization/asapp) and [DealRoom](https://app.dealroom.co/companies/asapp)
 
-- [Observe.AI](https://www.observe.ai/) - "Gain insights from 100% of customer interactions, maximize frontline team performance, and accelerate outcomes across the business with live conversation intelligence.”
+- [Observe.AI](https://www.observe.ai/) - "Gain insights from 100% of customer interactions, maximize frontline team performance, and accelerate outcomes across the business with live conversation intelligence."
 
 Fundraised around $214 - 222MM according to [Crunchbase](https://www.crunchbase.com/organization/observe-ai) and [DealRoom](https://app.dealroom.co/companies/observe_ai)
 
-- [Cresta](https://cresta.com/) - "Cresta leverages artificial intelligence to help sales and service agents improve the quality of their customer service.”
+- [Cresta](https://cresta.com/) - "Cresta leverages artificial intelligence to help sales and service agents improve the quality of their customer service."
 
 Fundraised around $151MM according to [Crunchbase](https://www.crunchbase.com/organization/cresta) and [DealRoom](https://app.dealroom.co/companies/cresta1)
 
-- [Replicant](https://www.replicant.com/) - "An AI voice technology that solves problems over the phone, improves customer experience, and reduces cost.”
+- [Replicant](https://www.replicant.com/) - "An AI voice technology that solves problems over the phone, improves customer experience, and reduces cost."
 
 Fundraised around $112 - 113MM according to [Crunchbase](https://www.crunchbase.com/organization/replicant-inc) and [DealRoom](https://app.dealroom.co/companies/replicant)
 
@@ -312,7 +312,7 @@ Fundraised $8MM according to [Crunchbase](https://www.crunchbase.com/organizatio
 
 Fundraised $6MM according to [Crunchbase](https://www.crunchbase.com/organization/prisma-5) and [DealRoom](https://app.dealroom.co/companies/prisma_labs)
 
-- [Art Blocks](https://www.artblocks.io) - "Art Blocks is a first of its kind platform focused on genuinely programmable on demand generative content that is stored immutably on the Ethereum Blockchain"
+- [Art Blocks](https://www.artblocks.io) - "Art Blocks is a first of its kind platform focused on genuinely programmable on demand generative content that is stored immutably on the Ethereum Blockchain."
 
 Fundraised $6MM according to [Crunchbase](https://www.crunchbase.com/organization/art-blocks) and [DealRoom](https://app.dealroom.co/companies/artblocks_io)
 
@@ -320,7 +320,7 @@ Fundraised $6MM according to [Crunchbase](https://www.crunchbase.com/organizatio
 
 Fundraised $6MM according to [Pitchbook](https://pitchbook.com/profiles/company/510831-10#overview)
 
-- [Reface](https://hey.reface.ai) - "AI/ML startup shifting from THE face-swapping app to a social platform for personalized content creation"
+- [Reface](https://hey.reface.ai) - "AI/ML startup shifting from THE face-swapping app to a social platform for personalized content creation."
 
 Fundraised $5.5MM according to [Crunchbase](https://www.crunchbase.com/organization/refaceai) and [DealRoom](https://app.dealroom.co/companies/refaceai)
 
@@ -374,23 +374,23 @@ Fundraised around $305 - 335M according to [Crunchbase](https://www.crunchbase.c
 
 #### $5 - 15MM
 
-- [Rephrase.ai](https://www.rephrase.ai/) - "A generative AI platform that allows you to convert plain text into professional-quality videos within minutes.” 
+- [Rephrase.ai](https://www.rephrase.ai/) - "A generative AI platform that allows you to convert plain text into professional-quality videos within minutes." 
 
 Fundraised around $12.1 - 12.2MM according to [Crunchbase](https://www.crunchbase.com/organization/rephrase-ai) and [DealRoom](https://app.dealroom.co/companies/rephrase_ai) 
 
-- [Yepic.ai](https://www.yepic.ai/) 1- "Yepic's API allows you to create and personalise videos anywhere.” 
+- [Yepic.ai](https://www.yepic.ai/) 1- "Yepic's API allows you to create and personalise videos anywhere." 
 
 Fundraised around $12MM according to [Pitchbook](https://pitchbook.com/profiles/company/431337-61) 
 
-- [Glossai](https://glossai.co/) - "Smart AI video generator that can turn any single piece of content into many short videos, blog posts and more various channels and use cases.” 
+- [Glossai](https://glossai.co/) - "Smart AI video generator that can turn any single piece of content into many short videos, blog posts and more various channels and use cases." 
 
 Fundraised $8MM according to [Crunchbase](https://www.crunchbase.com/organization/glossai) and [DealRoom](https://app.dealroom.co/companies/glossai_ltd_)  
 
-- [Rembrand](https://www.rembrand.com/) - "Seamless, photo-realistic, paid product placements generated by AI for original videos.” 
+- [Rembrand](https://www.rembrand.com/) - "Seamless, photo-realistic, paid product placements generated by AI for original videos." 
 
 Fundraised $8MM according to [Crunchbase](https://www.crunchbase.com/organization/rembrand) and [DealRoom](https://app.dealroom.co/companies/rembrand)
 
-- [Detail](https://detail.co/) - "Get AI-generated video highlights, import videos to your timeline and record all your audio and video at once, in sync.” 
+- [Detail](https://detail.co/) - "Get AI-generated video highlights, import videos to your timeline and record all your audio and video at once, in sync." 
 
 Fundraised around $6.7 - 7MM according to [Crunchbase](https://www.crunchbase.com/organization/viable-fit) and [DealRoom](https://app.dealroom.co/companies/askviable_com_) 
 
@@ -398,15 +398,15 @@ Fundraised around $6.7 - 7MM according to [Crunchbase](https://www.crunchbase.co
 
 Fundraised around $6 - 8.5MM according to [Crunchbase](https://www.crunchbase.com/organization/peech-a8c1) and [DealRoom](https://app.dealroom.co/companies/peech)
 
-- [Colossyan](https://www.colossyan.com/) - "Convert PPTs and PDF reports into videos and take internal communication to the next level. Generate videos to educate, train and onboard staff more efficiently and effectively. AI video creator with real actors.” 
+- [Colossyan](https://www.colossyan.com/) - "Convert PPTs and PDF reports into videos and take internal communication to the next level. Generate videos to educate, train and onboard staff more efficiently and effectively. AI video creator with real actors." 
 
 Fundraised around $6.1 - 6.2MM according to [Crunchbase](https://www.crunchbase.com/organization/colossyan) and [DealRoom](https://app.dealroom.co/companies/colossyan) 
 
-- [Reduct Video](https://reduct.video/) - "A collaborative transcript-based video platform where everyone can review, search, highlight and edit video, as easily as text.” 
+- [Reduct Video](https://reduct.video/) - "A collaborative transcript-based video platform where everyone can review, search, highlight and edit video, as easily as text." 
 
 Fundraised around $5MM according to [Crunchbase](https://www.crunchbase.com/organization/reduct) and [DealRoom](https://app.dealroom.co/companies/reduct)  
 
-- [Waymark](https://waymark.com/) - "AI video creator that makes it fast and easy to create compelling sample commercials.” 
+- [Waymark](https://waymark.com/) - "AI video creator that makes it fast and easy to create compelling sample commercials." 
 
 Fundraised around $5MM according to [Crunchbase](https://www.crunchbase.com/organization/stik) and [DealRoom](https://app.dealroom.co/companies/waymark_fka_socialproof__)   
 
@@ -416,15 +416,15 @@ Fundraised around $5MM according to [Crunchbase](https://www.crunchbase.com/orga
 
 Fundraised $35MM according to [Crunchbase](https://www.crunchbase.com/organization/veed-3a95) and [DealRoom](https://app.dealroom.co/companies/veed_io)
 
-- [Hour One](https://hourone.ai/) - "Turns text into video to make learning & development more fun & effective.”
+- [Hour One](https://hourone.ai/) - "Turns text into video to make learning & development more fun & effective."
 
 Fundraised around $25MM according to [Crunchbase](https://www.crunchbase.com/organization/hourone-ai) and [DealRoom](https://app.dealroom.co/companies/hour_one_ai)  
 
-- [Grain](https://grain.com/) - "Automates note-taking, record-keeping, and insight capture from every customer conversation.” 
+- [Grain](https://grain.com/) - "Automates note-taking, record-keeping, and insight capture from every customer conversation." 
 
 Fundraised around $20MM according to [Crunchbase](https://www.crunchbase.com/organization/grain-intelligence) and [DealRoom](https://app.dealroom.co/companies/grain_ltd)
 
-- [Twelve Labs](https://twelvelabs.io/) - "Helps developers make programs that can see, listen, and understand the world as we do by giving them the most powerful video search API.”
+- [Twelve Labs](https://twelvelabs.io/) - "Helps developers make programs that can see, listen, and understand the world as we do by giving them the most powerful video search API."
 
 Fundraised around $17MM according to [Crunchbase](https://www.crunchbase.com/organization/twelve-labs-62b5) and [DealRoom](https://app.dealroom.co/companies/twelve_labs_io)
 
@@ -438,8 +438,7 @@ Fundraised around $63 - 67MM according to [Crunchbase](https://www.crunchbase.co
 
 Fundraised around $59MM according to [DealRoom](https://app.dealroom.co/companies/toch)
 
-- [Invideo](https://invideo.io/) - "Simplifies video creation with ready-made templates
-that you can quickly customize even if you’ve never done it before.”
+- [Invideo](https://invideo.io/) - "Simplifies video creation with ready-made templates that you can quickly customize even if you’ve never done it before."
 
 Fundraised around $52.5MM according to [Crunchbase](https://www.crunchbase.com/organization/detail-technologies) and [DealRoom](https://app.dealroom.co/companies/detail)  
 
@@ -475,7 +474,7 @@ Fundraised $9MM according to [Crunchbase](https://www.crunchbase.com/organizatio
 
 Fundraised $7.5MM according to [Crunchbase](https://www.crunchbase.com/organization/metaphysic) and [DealRoom](https://app.dealroom.co/companies/metaphysic)
 
-- [Scenario](https://www.scenario.com) - "AI-generated game assets. Create high-quality, style-consistent, proprietary assets for your games"
+- [Scenario](https://www.scenario.com) - "AI-generated game assets. Create high-quality, style-consistent, proprietary assets for your games."
 
 Fundraised $6MM according to [DealRoom](https://app.dealroom.co/companies/scenario_1)
 
@@ -499,7 +498,7 @@ Fundraised $16MM according to [Crunchbase](https://www.crunchbase.com/organizati
 
 #### $41 - 100M
 
-- [Inworld](https://www.inworld.ai) - "AI characters for games & immersive experiences ... Create more realistic and believable worlds with characters powered by artificial intelligence."
+- [Inworld](https://www.inworld.ai) - "AI characters for games & immersive experiences . Create more realistic and believable worlds with characters powered by artificial intelligence."
 
 Fundraised around $69 - 81MM according to [Crunchbase](https://www.crunchbase.com/organization/inworld-ai) and [DealRoom](https://app.dealroom.co/companies/inworld_ai)
 
@@ -537,7 +536,7 @@ Fundraised $9MM according to [Crunchbase](https://www.crunchbase.com/organizatio
 
 Fundraised around $5.5 - 11MM according to [Crunchbase](https://www.crunchbase.com/organization/onloop-pte-ltd) and [DealRoom](https://app.dealroom.co/companies/onloop_1)
 
-- [Viable](https://www.askviable.com) - "Platform that automates the qualitative analysis of customer feedback and helps companies measure their product market fit"
+- [Viable](https://www.askviable.com) - "Platform that automates the qualitative analysis of customer feedback and helps companies measure their product market fit."
 
 Fundraised around $8.9 - 10.9MM according to [Crunchbase](https://www.crunchbase.com/organization/viable-fit) and [DealRoom](https://app.dealroom.co/companies/askviable_com_)
 
@@ -565,7 +564,7 @@ Fundraised $ according to [Crunchbase](https://www.crunchbase.com/organization/m
 
 Fundraised around $63 - 73MM according to [Crunchbase](https://www.crunchbase.com/organization/aisense-inc) and [DealRoom](https://app.dealroom.co/companies/otter_ai)
 
-- [Sana Labs](https://www.sanalabs.com) - "Sana’s AI-powered learning platform helps pioneering companies share knowledge, learn fast, automate admin and perform 10x faster."
+- [Sana Labs](https://www.sanalabs.com) - "Sana's AI-powered learning platform helps pioneering companies share knowledge, learn fast, automate admin and perform 10x faster."
 
 Fundraised $54MM according to [Crunchbase](https://www.crunchbase.com/organization/sana-2) and [DealRoom](https://app.dealroom.co/companies/sana_labs)
 
@@ -638,16 +637,16 @@ Fundraised $10MM according to [Crunchbase](https://www.crunchbase.com/organizati
 
 Fundraised $9.3MM according to [Crunchbase](https://www.crunchbase.com/organization/outplay) and [DealRoom](https://app.dealroom.co/companies/outplay_1)
 
-- [Quattr](https://www.quattr.com) - "Supercharge your brand’s online visibility by knowing what's holding it back. 
+- [Quattr](https://www.quattr.com) - "Supercharge your brand's online visibility by knowing what's holding it back. 
 Our SEO concierges manage your SEO platform and help you strategize growth. Time is revenue. Automate 30+ manual SEO tasks. Prioritize based on predicted growth. Turn search performance into your revenue engine."
 
 Fundraised $7.1MM according to [Crunchbase](https://www.crunchbase.com/organization/quattr-inc) and [DealRoom](https://app.dealroom.co/companies/quattr)
 
-- [Demandwell](https://www.demandwell.com) - "The Ultimate Solution to Drive Demand in Search. We’ve combined personalized coaching and support with software automation and AI for a better SEO experience. Demandwell’s tech-enabled services help you drive demand faster and grow like a weed with search engine optimized content."
+- [Demandwell](https://www.demandwell.com) - "The Ultimate Solution to Drive Demand in Search. We've combined personalized coaching and support with software automation and AI for a better SEO experience. Demandwell's tech-enabled services help you drive demand faster and grow like a weed with search engine optimized content."
 
 Fundraised $5MM according to [Crunchbase](https://www.crunchbase.com/organization/demandwell) and [DealRoom](https://app.dealroom.co/companies/demandwell)
 
-- [Durable]() - "The AI website builder that generates an entire website with images and copy in seconds."
+- [Durable](https://durable.co) - "The AI website builder that generates an entire website with images and copy in seconds."
 
 Fundraised $6.2MM according to [Pitchbook](https://pitchbook.com/profiles/company/494198-65#overview)
 
@@ -722,7 +721,7 @@ Fundraised $29.4MM according to [Crunchbase](https://www.crunchbase.com/organiza
 
 Fundraised $23MM according to [Crunchbase](https://www.crunchbase.com/organization/warp-664e) and [DealRoom](https://app.dealroom.co/companies/warp_1_2)
 
-- [Tabnine](https://www.tabnine.com) - "Boost productivity and amplify coding accuracy with the power of Tabnine’s all-language AI-assisted code completion."
+- [Tabnine](https://www.tabnine.com) - "Boost productivity and amplify coding accuracy with the power of Tabnine's all-language AI-assisted code completion."
 
 Fundraised around $30MM according to [Crunchbase](https://www.crunchbase.com/organization/tabnine) and [DealRoom](https://app.dealroom.co/companies/tabnine)
 
@@ -748,7 +747,7 @@ Fundraised around $104 - 105M according to [Crunchbase](https://www.crunchbase.c
 
 Fundraised around $6MM according to [Crunchbase](https://www.crunchbase.com/organization/wombo) and [DealRoom](https://app.dealroom.co/companies/wombo_ai)
 
-- [Moises](https://moises.ai) - "Music-tech platform offering musicians and producers a suite of AI tools such as audio separation, pitch/beats/chord detection, metronome, tempo changer and mastering"
+- [Moises](https://moises.ai) - "Music-tech platform offering musicians and producers a suite of AI tools such as audio separation, pitch/beats/chord detection, metronome, tempo changer and mastering."
 
 Fundraised around $10.4MM according to [Crunchbase](https://www.crunchbase.com/organization/moises)
 
@@ -762,7 +761,7 @@ Fundraised around $12 - 14.5MM according to [Crunchbase](https://www.crunchbase.
 
 Fundraised around $21 - 23MM according to [Crunchbase](https://www.crunchbase.com/organization/popgun) and [DealRoom](https://app.dealroom.co/companies/splash_1_2)
 
-- [Aimi](https://www.aimi.fm) - "Aimi’s interactive music experiences allow fans to interact with music at the composition level, turning each experience into a personalized journey"
+- [Aimi](https://www.aimi.fm) - "Aimi’s interactive music experiences allow fans to interact with music at the composition level, turning each experience into a personalized journey."
 
 Fundraised $20MM according to [Crunchbase](https://www.crunchbase.com/organization/aimi-e92a) and [DealRoom](https://app.dealroom.co/companies/aimi)
 
@@ -777,29 +776,29 @@ Fundraised $20MM according to [Crunchbase](https://www.crunchbase.com/organizati
 
 ## Vertical Application
 
-A vertical application is software that is defined and built according to a user’s specific requirements in order to achieve specific functions and processes that are unique to that user. It is usually customized for a target enterprise or organization in order to meet its own special needs.
+A vertical application is software that is defined and built according to a user's specific requirements in order to achieve specific functions and processes that are unique to that user. It is usually customized for a target enterprise or organization in order to meet its own special needs.
 
 ### Health & Drug Discovery
 
 #### $5 - 15MM
 
-- [Sorcero](https://www.sorcero.com/) - "An enterprise AI-powered medical analytics solution purpose-built for Life Sciences.” 
+- [Sorcero](https://www.sorcero.com/) - "An enterprise AI-powered medical analytics solution purpose-built for Life Sciences." 
 
 Fundraised around $5.1 - 15.1MM according to [Crunchbase](https://www.crunchbase.com/organization/sorcero) and [DealRoom](https://app.dealroom.co/companies/sorcero)
 
-- [AtroposHealth](https://www.atroposhealth.com/) - "Rapidly provides personalized real-world evidence for any clinical decision.”
+- [AtroposHealth](https://www.atroposhealth.com/) - "Rapidly provides personalized real-world evidence for any clinical decision."
 
 Fundraised $14MM according to [Crunchbase](https://www.crunchbase.com/organization/atropos-health) and [DealRoom](https://app.dealroom.co/companies/atroposhealth)
 
-- [Ordaos](https://ordaos.bio/) - "Help pharma and biotech partners around the world discover & deliver safer and more effective therapeutics in a fraction of the time with the novel power of AI-designed miniPRO™ proteins.”
+- [Ordaos](https://ordaos.bio/) - "Help pharma and biotech partners around the world discover & deliver safer and more effective therapeutics in a fraction of the time with the novel power of AI-designed miniPRO™ proteins."
 
 Fundraised around $5 - 10.6MM according to [Crunchbase](https://www.crunchbase.com/organization/ordaos-bio) and [DealRoom](https://app.dealroom.co/companies/ordaos)
 
-- [Atomica.ai](https://atomica.ai/) - "Gives you a complete, end-to-end solution to unlock the benefits of digital dentistry so you can achieve more growth, efficiency, and peace of mind.”
+- [Atomica.ai](https://atomica.ai/) - "Gives you a complete, end-to-end solution to unlock the benefits of digital dentistry so you can achieve more growth, efficiency, and peace of mind."
 
 Fundraised $10MM according to [PitchBook](https://pitchbook.com/profiles/company/493149-61)
 
-- [Profluent](https://www.profluent.bio/) - "An AI-first protein design company.”
+- [Profluent](https://www.profluent.bio/) - "An AI-first protein design company."
 
 Fundraised $9MM according to [Crunchbase](https://www.crunchbase.com/organization/profluent-bio) 
 
@@ -807,17 +806,17 @@ Fundraised $9MM according to [Crunchbase](https://www.crunchbase.com/organizatio
 
 Fundraised $8.5MM according to [Crunchbase](https://www.crunchbase.com/organization/invivo-ai) and [DealRoom](https://app.dealroom.co/companies/valence_discovery)
 
-- [Syntegra](https://www.syntegra.io/) - "Creates accurate, privacy-preserved synthetic data that bridges the gap between your organization’s data privacy and data science needs, allowing you to take a data-centric approach to innovation in patient care and improved clinical outcomes.”
+- [Syntegra](https://www.syntegra.io/) - "Creates accurate, privacy-preserved synthetic data that bridges the gap between your organization's data privacy and data science needs, allowing you to take a data-centric approach to innovation in patient care and improved clinical outcomes."
 
 Fundraised $5.6MM according to [Crunchbase](https://www.crunchbase.com/organization/synytegra) and [DealRoom](https://app.dealroom.co/companies/syntegra)
 
-- [Antiverse](https://www.antiverse.io/) - "Uses machine learning to engineer novel antibodies against difficult targets such as GPCRs and ion channels.”
+- [Antiverse](https://www.antiverse.io/) - "Uses machine learning to engineer novel antibodies against difficult targets such as GPCRs and ion channels."
 
 Fundraised around $5.3MM according to [Crunchbase](https://www.crunchbase.com/organization/antiverse) and [DealRoom](https://app.dealroom.co/companies/antiverse)
 
 #### $16 - 40MM
 
-- [Aqemia](https://www.aqemia.com/) - "A next-generation pharmatech company generating one of the world's fastest-growing drug discovery pipeline.”
+- [Aqemia](https://www.aqemia.com/) - "A next-generation pharmatech company generating one of the world's fastest-growing drug discovery pipeline."
 
 Fundraised around $31.1 - 34.8MM according to [Crunchbase](https://www.crunchbase.com/organization/aqemia) and [DealRoom](https://app.dealroom.co/companies/aqemia)
 
@@ -825,67 +824,67 @@ Fundraised around $31.1 - 34.8MM according to [Crunchbase](https://www.crunchbas
 
 Fundraised $29.4MM according to [Crunchbase](https://www.crunchbase.com/organization/touchkin-eservices) and [DealRoom](https://app.dealroom.co/companies/touchkin)
 
-- [A-Alpha Bio](https://www.aalphabio.com/) - "Measures millions of protein-protein interactions at a time, accelerating therapeutic discovery to improve human health. Apply synthetic biology and machine learning to measure, discover, predict, and engineer protein-protein interactions.”
+- [A-Alpha Bio](https://www.aalphabio.com/) - "Measures millions of protein-protein interactions at a time, accelerating therapeutic discovery to improve human health. Apply synthetic biology and machine learning to measure, discover, predict, and engineer protein-protein interactions."
 
 Fundraised around $23.6 - 24.8MM according to [Crunchbase](https://www.crunchbase.com/organization/a-alpha-bio) and [DealRoom](https://app.dealroom.co/companies/a_alpha_bio)
 
-- [Abridge](https://www.abridge.com/) - "Summarize and structure health conversations — all through Abridge’s medical AI.”
+- [Abridge](https://www.abridge.com/) - "Summarize and structure health conversations — all through Abridge’s medical AI."
 
 Fundraised around $22.5 - 27.5MM according to [Crunchbase](https://www.crunchbase.com/organization/abridge-d1a4) and [DealRoom](https://app.dealroom.co/companies/abridge)
 
-- [Nabla](https://www.nabla.com/) - "Enables businesses to leverage AI by turning the latest academic machine learning research into scalable products.”
+- [Nabla](https://www.nabla.com/) - "Enables businesses to leverage AI by turning the latest academic machine learning research into scalable products."
 
 Fundraised around $18.7 - 20.6MM according to [Crunchbase](https://www.crunchbase.com/organization/nabla) and [DealRoom](https://app.dealroom.co/companies/nabla)
 
-- [Retrace](https://retrace.ai/) - "Helps oral health care providers get paid accurately and instantly with a complete billing and office solution that connects your entire practice.”
+- [Retrace](https://retrace.ai/) - "Helps oral health care providers get paid accurately and instantly with a complete billing and office solution that connects your entire practice."
 
 Fundraised $18MM according to [Crunchbase](https://www.crunchbase.com/organization/retrace-3c6f) 
 
-- [Basecamp Research](https://www.basecamp-research.com/) - "Works on building a sustainable future with environmental genomic data with biotechnology.”
+- [Basecamp Research](https://www.basecamp-research.com/) - "Works on building a sustainable future with environmental genomic data with biotechnology."
 
 Fundraised around $16.1 - 20MM according to [Crunchbase](https://www.crunchbase.com/organization/basecamp-research) and [DealRoom](https://app.dealroom.co/companies/basecamp_research)
 
-- [Jura Bio](https://www.jura.bio/) - "Building the future of cell therapies by expanding what cell therapies can target with JURA’s transformative MHC-CAR and cell-free systems for autoimmune disease that allows them to tackle new diseases & arrest the auto-inflammatory cascade.”
+- [Jura Bio](https://www.jura.bio/) - "Building the future of cell therapies by expanding what cell therapies can target with JURA's transformative MHC-CAR and cell-free systems for autoimmune disease that allows them to tackle new diseases & arrest the auto-inflammatory cascade."
 
 Fundraised $16.5MM according to [PitchBook](https://pitchbook.com/profiles/company/465489-82)
 
-- [Pictorlabs](https://pictorlabs.ai/) - "Offers virtual staining technology using proprietary models powered by artificial intelligence.”
+- [Pictorlabs](https://pictorlabs.ai/) - "Offers virtual staining technology using proprietary models powered by artificial intelligence."
 
 Fundraised around $15.2 - 18.8MM according to [Crunchbase](https://www.crunchbase.com/organization/pictor-labs) and [DealRoom](https://app.dealroom.co/companies/pictor_labs)
 
-- [Redesign_Science](https://www.redesignscience.com/) - "We simulate biomolecular systems from first principles using physics-based atomic-level molecular dynamics. Their NUVO™ technology platform combines physics simulation with generative AI to serve their internal therapeutics pipeline.”
+- [Redesign_Science](https://www.redesignscience.com/) - "We simulate biomolecular systems from first principles using physics-based atomic-level molecular dynamics. Their NUVO™ technology platform combines physics simulation with generative AI to serve their internal therapeutics pipeline."
 
 Fundraised around $12 - 17MM according to [Crunchbase](https://www.crunchbase.com/organization/redesign-science) and [DealRoom](https://app.dealroom.co/companies/redesign_science)
 
 #### $41 - 100M
 
-- [BigHat Biosciences](https://www.bighatbio.com/) - "Protein therapeutics company that develops an antibody design platform guided by artificial intelligence.”
+- [BigHat Biosciences](https://www.bighatbio.com/) - "Protein therapeutics company that develops an antibody design platform guided by artificial intelligence."
 
 Fundraised $99.3MM according to [Crunchbase](https://www.crunchbase.com/organization/bighat-biosciences) and [DealRoom](https://app.dealroom.co/companies/bighat_biosciences)
 
-- [Evozyne](https://www.evozyne.com) - "We have a new way of thinking about proteins. We've uncovered Nature's hidden rules to build Natural Machines. With our partners, we are changing the world. - Protein Engineering"
+- [Evozyne](https://www.evozyne.com) - "We have a new way of thinking about proteins. We've uncovered Nature's hidden rules to build Natural Machines. With our partners, we are changing the world. - Protein Engineering."
 
 Fundraised $63.4MM according to [Crunchbase](https://www.crunchbase.com/organization/evozyne) and [DealRoom](https://app.dealroom.co/companies/evozyne)
 
-- [Arzeda](https://arzeda.com/) - "Solve some of today’s hardest problems – from food production and better nutrition to sustainable materials and home care – by creating new designer proteins and enzymes that have the limitless potential to create better products for everyone.”
+- [Arzeda](https://arzeda.com/) - "Solve some of today’s hardest problems – from food production and better nutrition to sustainable materials and home care – by creating new designer proteins and enzymes that have the limitless potential to create better products for everyone."
 
 Fundraised around $48.2 - 51.4MM according to [Crunchbase](https://www.crunchbase.com/organization/arzeda) and [DealRoom](https://app.dealroom.co/companies/arzeda)
 
-- [Atomic AI](https://atomic.ai/) - "Developing the cutting-edge fusion of machine learning and structural biology to unlock RNA drug discovery.”
+- [Atomic AI](https://atomic.ai/) - "Developing the cutting-edge fusion of machine learning and structural biology to unlock RNA drug discovery."
 
 Fundraised $42MM according to [Crunchbase](https://www.crunchbase.com/organization/atomic-ai) and [DealRoom](https://app.dealroom.co/companies/atomic_ai)
 
 #### $100M+ Raised
 
-- [Generate:Biomedicines](https://generatebiomedicines.com/) - "A biotechnological company focusing on creating breakthrough medicines.”
+- [Generate:Biomedicines](https://generatebiomedicines.com/) - "A biotechnological company focusing on creating breakthrough medicines."
 
 Fundraised around $370 - 420MM according to [Crunchbase](https://www.crunchbase.com/organization/generate-biomedicines) and [DealRoom](https://app.dealroom.co/companies/generate_biomedicines)
 
-- [Insilico Medicine](https://insilico.com/) - "Develops an AI platform for drug development to treat cancer and age-related diseases.”
+- [Insilico Medicine](https://insilico.com/) - "Develops an AI platform for drug development to treat cancer and age-related diseases."
 
 Fundraised around $401.3 - 409MM according to [Crunchbase](https://www.crunchbase.com/organization/insilico-medicine) and [DealRoom](https://app.dealroom.co/companies/insilico_medicine)
 
-- [Paige](https://paige.ai/) - "Builds software to advance the diagnosis, treatment, and biomarker discovery for cancer.”
+- [Paige](https://paige.ai/) - "Builds software to advance the diagnosis, treatment, and biomarker discovery for cancer."
 
 Fundraised $220MM according to [Crunchbase](https://www.crunchbase.com/organization/paige-ai)
 
@@ -893,11 +892,11 @@ Fundraised $220MM according to [Crunchbase](https://www.crunchbase.com/organizat
 
 Fundraised around $116 - 184M according to [Crunchbase](https://www.crunchbase.com/organization/enveda-therapeutics) and [DealRoom](https://app.dealroom.co/companies/enveda_biosciences)
 
-- [Woebot Health](https://woebothealth.com/) - "Provides behavioral health solutions and prescriptions for adolescent and postpartum depression.”
+- [Woebot Health](https://woebothealth.com/) - "Provides behavioral health solutions and prescriptions for adolescent and postpartum depression."
 
 Fundraised around $123 - 123.3MM according to [Crunchbase](https://www.crunchbase.com/organization/woebot-labs) and [DealRoom](https://app.dealroom.co/companies/woebot_health)
 
-- [Mdclone](https://www.mdclone.com/) - "Provides data in real time to anyone across the healthcare ecosystem in the format they need and with the privacy controls they require, enhancing the usability and access of existing data and reducing costs associated with data aggregation.”
+- [Mdclone](https://www.mdclone.com/) - "Provides data in real time to anyone across the healthcare ecosystem in the format they need and with the privacy controls they require, enhancing the usability and access of existing data and reducing costs associated with data aggregation."
 
 Fundraised $104MM according to [Crunchbase](https://www.crunchbase.com/organization/mdclone) and [DealRoom](https://app.dealroom.co/companies/mdclone)
 
@@ -905,7 +904,7 @@ Fundraised $104MM according to [Crunchbase](https://www.crunchbase.com/organizat
 
 #### $5 - 15MM
 
-- [Ross Intelligence](https://www.ycombinator.com/companies/ross-intelligence#:~:text=%3A%2F%2Frossintelligence.com-,ROSS%20is%20an%20AI%2Dpowered%20legal%20research%20platform%20that%20can,legal%20services%20around%20the%20world.) - "our mission is to develop technologies that increase access to legal services around the world. We are going after the $8B legal research market with our AI-powered legal research platform that allows lawyers to research in 80% less time and find cases they would have otherwise missed."
+- [Ross Intelligence](https://www.ycombinator.com/companies/ross-intelligence#:~:text=%3A%2F%2Frossintelligence.com-,ROSS%20is%20an%20AI%2Dpowered%20legal%20research%20platform%20that%20can,legal%20services%20around%20the%20world.) - "Our mission is to develop technologies that increase access to legal services around the world. We are going after the $8B legal research market with our AI-powered legal research platform that allows lawyers to research in 80% less time and find cases they would have otherwise missed."
 
 Fundraised around $13.1MM according to [Crunchbase](https://www.crunchbase.com/organization/ross-intelligence) and [DealRoom](https://app.dealroom.co/companies/ross_intelligence) 
 
@@ -913,27 +912,27 @@ Fundraised around $13.1MM according to [Crunchbase](https://www.crunchbase.com/o
 
 Fundraised $9MM according to [DealRoom](https://app.dealroom.co/companies/darwinai)
 
-- [ToffeeAM](https://www.toffeeam.co.uk/) - "Optimizes product designs for 3D printing. Intelligent Multiphysics Generative Design for Advanced Manufacturing.”
+- [ToffeeAM](https://www.toffeeam.co.uk/) - "Optimizes product designs for 3D printing. Intelligent Multiphysics Generative Design for Advanced Manufacturing."
 
 Fundraised around $6 - 7.9MM according to [Crunchbase](https://www.crunchbase.com/organization/toffeeam) and [DealRoom](https://app.dealroom.co/companies/toffeeam)
 
-- [Term Scout](https://www.termscout.com/) - "A legal tech platform that brings transparency to the contract review process, reducing review time by up to 50%.”
+- [Term Scout](https://www.termscout.com/) - "A legal tech platform that brings transparency to the contract review process, reducing review time by up to 50%."
 
 Fundraised $7.3MM according to [Crunchbase](https://www.crunchbase.com/organization/termscout)
 
-- [Swapp](https://www.swapp.ai/) - "Aims to disrupt the current planning methodologies by providing an AI-driven end-to-end planning service.”
+- [Swapp](https://www.swapp.ai/) - "Aims to disrupt the current planning methodologies by providing an AI-driven end-to-end planning service."
 
 Fundraised $7MM according to [Crunchbase](https://www.crunchbase.com/organization/buildos) and [DealRoom](https://app.dealroom.co/companies/swapp_2)
 
-- [Zuma](https://www.getzuma.com/) - "Convert hot leads into booked tours.”
+- [Zuma](https://www.getzuma.com/) - "Convert hot leads into booked tours."
 
 Fundraised around $6.7 - 7.2MM according to [Crunchbase](https://www.crunchbase.com/organization/astro) and [DealRoom](https://app.dealroom.co/companies/zuma_)
 
-- [Data Skrive](https://dataskrive.com/) - "A SaaS that creates automated content for Sportsbooks and sports media companies.”
+- [Data Skrive](https://dataskrive.com/) - "A SaaS that creates automated content for Sportsbooks and sports media companies."
 
 Fundraised $6.3MM according to [Crunchbase](https://www.crunchbase.com/organization/data-skrive)
 
-- [Harvey](https://www.harvey.ai/) - "Creates unique, supportive living spaces for the world.”
+- [Harvey](https://www.harvey.ai/) - "Creates unique, supportive living spaces for the world."
 
 Fundraised $5MM according to [DealRoom](https://app.dealroom.co/companies/harvey_1)
 
@@ -943,15 +942,15 @@ Fundraised $5MM according to [DealRoom](https://app.dealroom.co/companies/harvey
 
 Fundraised around $13 - 31MM according to [Crunchbase](https://www.crunchbase.com/organization/archistar) and [DealRoom](https://app.dealroom.co/companies/archistar)
 
-- [Darrow](https://www.darrow.ai/) - "Scans publicly available data to detect hidden legal violations, turns them into cases, and gives everything needed to know about them.” 
+- [Darrow](https://www.darrow.ai/) - "Scans publicly available data to detect hidden legal violations, turns them into cases, and gives everything needed to know about them." 
 
 Fundraised $24MM according to [DealRoom](https://app.dealroom.co/companies/darrow)
 
-- [TestFit](https://testfit.io/) - "Algorithms and co-creation tools that help developers, architects, urban planners and more to solve hotel, parking or multifamily building site plans in seconds.”
+- [TestFit](https://testfit.io/) - "Algorithms and co-creation tools that help developers, architects, urban planners and more to solve hotel, parking or multifamily building site plans in seconds."
 
 Fundraised $22MM according to [DealRoom](https://app.dealroom.co/companies/testfit)
 
-- [BlackShark.AI](https://blackshark.ai/) - "A 3D digital twin of Earth I powered by satellite data & artificial intelligence.”
+- [BlackShark.AI](https://blackshark.ai/) - "A 3D digital twin of Earth I powered by satellite data & artificial intelligence."
 
 Fundraised $20MM according to [Crunchbase](https://www.crunchbase.com/organization/blackshark-ai) and [DealRoom](https://app.dealroom.co/companies/blackshark_ai) 
 
@@ -961,7 +960,7 @@ Fundraised $20MM according to [Crunchbase](https://www.crunchbase.com/organizati
 
 Fundraised $64.3MM according to [Crunchbase](https://www.crunchbase.com/organization/casetext) and [DealRoom](https://app.dealroom.co/companies/casetext)
 
-- [Mad Street Den](https://www.madstreetden.com/) - "A computer vision and artificial intelligence startup.”
+- [Mad Street Den](https://www.madstreetden.com/) - "A computer vision and artificial intelligence startup."
 
 Fundraised around $52.7 - 55.8MM according to [Crunchbase](https://www.crunchbase.com/organization/mad-street-den) and [DealRoom](https://app.dealroom.co/companies/mad_street_den_1) 
 
@@ -1045,7 +1044,7 @@ Fundraised $22MM according to [Crunchbase](https://www.crunchbase.com/organizati
 
 Fundraised around $20 - 25.4MM according to [Crunchbase](https://www.crunchbase.com/organization/iterative-ai) and [DealRoom](https://app.dealroom.co/companies/iterative_ai)
 
-- [Mosaic Ml](https://www.mosaicml.com) - "The MosaicML platform enables you to easily train large AI models on your data, in your secure environment"
+- [Mosaic Ml](https://www.mosaicml.com) - "The MosaicML platform enables you to easily train large AI models on your data, in your secure environment."
 
 Fundraised around $15MM according to [Pitchbook](https://pitchbook.com/profiles/company/482515-75#overview)
 
@@ -1069,27 +1068,27 @@ Fundraised $44MM according to [Crunchbase](https://www.crunchbase.com/organizati
 
 Fundraised $260M according to [Crunchbase](https://www.crunchbase.com/organization/anyscale) and [DealRoom](https://app.dealroom.co/companies/anyscale)
 
-- [Weights & Biases](https://wandb.ai/site) - "Provides a developer-first MLOps platform that offers performance visualization tools for machine learning.”
+- [Weights & Biases](https://wandb.ai/site) - "Provides a developer-first MLOps platform that offers performance visualization tools for machine learning."
 
 Fundraised around $200MM according to [Crunchbase](https://www.crunchbase.com/organization/weights-biases) and [DealRoom](https://app.dealroom.co/companies/weights_biases)
 
-- [Hugging Face](https://huggingface.co/) - "An open-source and platform provider of machine learning technologies that allows users to build, train, and deploy art models using the reference open source in machine learning.”
+- [Hugging Face](https://huggingface.co/) - "An open-source and platform provider of machine learning technologies that allows users to build, train, and deploy art models using the reference open source in machine learning."
 
 Fundraised around $160.2 - 161MM according to [Crunchbase](https://www.crunchbase.com/organization/hugging-face) and [DealRoom](https://app.dealroom.co/companies/hugging_face)
 
-- [OctoML](https://octoml.ai/) - "Offers an acceleration platform that helps engineering teams deploy machine learning models on any hardware.”
+- [OctoML](https://octoml.ai/) - "Offers an acceleration platform that helps engineering teams deploy machine learning models on any hardware."
 
 Fundraised around $131.9 - 132MM according to [Crunchbase](https://www.crunchbase.com/organization/octoml) and [DealRoom](https://app.dealroom.co/companies/octoml)
 
-- [Run:ai](https://www.run.ai/) - "Develops an automated distributed training technology that virtualizes and accelerates deep learning.”
+- [Run:ai](https://www.run.ai/) - "Develops an automated distributed training technology that virtualizes and accelerates deep learning."
 
 Fundraised $118MM according to [Crunchbase](https://www.crunchbase.com/organization/run-ai) and [DealRoom](https://app.dealroom.co/companies/run_ai)
 
-### Data (Synthetic Labeling)
+### Data & Synthetic labeling
 
 #### $5 - 15MM
 
-- [Lang.ai](https://www.lang.ai/) - "a language understanding platform that automates tagging and repetitive actions for every support conversation.” 
+- [Lang.ai](https://www.lang.ai/) - "A language understanding platform that automates tagging and repetitive actions for every support conversation." 
 
 Fundraised around $12.5 - 14.5MM according to [Crunchbase](https://www.crunchbase.com/organization/lang-ai) and [DealRoom](https://app.dealroom.co/companies/lang_ai)
 
@@ -1097,21 +1096,21 @@ Fundraised around $12.5 - 14.5MM according to [Crunchbase](https://www.crunchbas
 
 Fundraised $12.8MM according to [Crunchbase](https://www.crunchbase.com/organization/mantium) and [DealRoom](https://app.dealroom.co/companies/mantium)
 
-- [SaturnCloud](https://saturncloud.io/) - "AI development platform to build general-purpose AI, generative AI such as large language models, as well as enterprise-specific use cases.”
+- [SaturnCloud](https://saturncloud.io/) - "AI development platform to build general-purpose AI, generative AI such as large language models, as well as enterprise-specific use cases."
 
 Fundraised around $9.5MM according to [Crunchbase](https://www.crunchbase.com/organization/saturn-cloud)
 
-- [Datomize](https://www.datomize.com/) - "AI-powered data generation platform that enables data analysts and machine learning engineers to maximize the value of their analytical data sets.”
+- [Datomize](https://www.datomize.com/) - "AI-powered data generation platform that enables data analysts and machine learning engineers to maximize the value of their analytical data sets."
 
 Fundraised around $6MM according to [Crunchbase](https://www.crunchbase.com/organization/datomize-ltd) and [DealRoom](https://app.dealroom.co/companies/datomize_ltd_)
 
 #### $16 - 40MM
 
-- [Mostly.AI](https://mostly.ai/) - "AI-generated synthetic data for 90%+ reduction in time-to-data, 50% more machine learning models in production and 100% privacy.”
+- [Mostly.AI](https://mostly.ai/) - "AI-generated synthetic data for 90%+ reduction in time-to-data, 50% more machine learning models in production and 100% privacy."
 
 Fundraised around $30.9 - 31.1MM according to [Crunchbase](https://www.crunchbase.com/organization/mostly-ai) and [DealRoom](https://app.dealroom.co/companies/mostly_ai)
 
-- [Diveplane](https://diveplane.com/) - "Award winning Privacy Enhancing Technology. Create a safe, accurate synthetic twin of your data. All the value from your data without the risk to data privacy.”
+- [Diveplane](https://diveplane.com/) - "Award winning Privacy Enhancing Technology. Create a safe, accurate synthetic twin of your data. All the value from your data without the risk to data privacy."
 
 Fundraised around $29.3 - 34MM according to [Crunchbase](https://www.crunchbase.com/organization/diveplane) and [DealRoom](https://app.dealroom.co/companies/diveplane)
 
@@ -1119,17 +1118,17 @@ Fundraised around $29.3 - 34MM according to [Crunchbase](https://www.crunchbase.
 
 Fundraised $30MM according to [Crunchbase](https://www.crunchbase.com/organization/mostly-ai) and [DealRoom](https://app.dealroom.co/companies/mostly_ai)
 
-- [Synthesis.AI](https://synthesis.ai/) - "A synthetic data platform for ML engineers to enable the development of more capable AI models.”
+- [Synthesis.AI](https://synthesis.ai/) - "A synthetic data platform for ML engineers to enable the development of more capable AI models."
 
 Fundraised around $21.5 - 26.1MM according to [Crunchbase](https://www.crunchbase.com/organization/synthesis-ai) and [DealRoom](https://app.dealroom.co/companies/synthesis_1_1)
 
-- [Hazy](https://hazy.com/) - "Synthetic data company that helps businesses unlock data for innovation without compromising customers privacy.”
+- [Hazy](https://hazy.com/) - "Synthetic data company that helps businesses unlock data for innovation without compromising customers privacy."
 
 Fundraised around $14.8 - 16.8MM according to [Crunchbase](https://www.crunchbase.com/organization/hazy) and [DealRoom](https://app.dealroom.co/companies/hazy)
 
 #### $41 - 100M
 
-- [Datagen](https://datagen.tech/) - "Develops simulated data technology to be scalable, bias-free, and automatically annotated.”
+- [Datagen](https://datagen.tech/) - "Develops simulated data technology to be scalable, bias-free, and automatically annotated."
 
 Fundraised around $72 - 75.5MM according to [Crunchbase](https://www.crunchbase.com/organization/datagen-technologies) and [DealRoom](https://app.dealroom.co/companies/datagen_technologies)
 
@@ -1137,21 +1136,21 @@ Fundraised around $72 - 75.5MM according to [Crunchbase](https://www.crunchbase.
 
 Fundraised around $65.5 - 67.7MM according to [Crunchbase](https://www.crunchbase.com/organization/gretel-ai) and [DealRoom](https://app.dealroom.co/companies/gretel)
 
-- [Tonic](https://www.tonic.ai/) - "Mimics your production data to create safe, useful, de-identified data for QA, testing, and development.”
+- [Tonic](https://www.tonic.ai/) - "Mimics your production data to create safe, useful, de-identified data for QA, testing, and development."
 
 Fundraised around $44.9 - 45MM according to [Crunchbase](https://www.crunchbase.com/organization/tonic-ai) and [DealRoom](https://app.dealroom.co/companies/tonic)
 
-- [Parallel Domain](https://paralleldomain.com/) - "A synthetic data platform for training and testing perception systems.”
+- [Parallel Domain](https://paralleldomain.com/) - "A synthetic data platform for training and testing perception systems."
 
 Fundraised $43.9MM according to [Crunchbase](https://www.crunchbase.com/organization/parallel-domain) and [DealRoom](https://app.dealroom.co/companies/parallel_domain)
 
 #### $100M+ Raised
 
-- [Scale](https://scale.com/) - "Accelerates the development of AI applications by helping machine learning teams generate high-quality ground truth data.”
+- [Scale](https://scale.com/) - "Accelerates the development of AI applications by helping machine learning teams generate high-quality ground truth data."
 
 Fundraised around $602.6 - 603MM according to [Crunchbase](https://www.crunchbase.com/organization/scale-2) and [DealRoom](https://app.dealroom.co/companies/scale_ai)
 
-- [Snorkel](https://snorkel.ai/) - "An AI platform that lets you label data, train models, improve performance and deploy applications.”
+- [Snorkel](https://snorkel.ai/) - "An AI platform that lets you label data, train models, improve performance and deploy applications."
 
 Fundraised around $135 - 135.3MM according to [Crunchbase](https://www.crunchbase.com/organization/snorkel-ai) and [DealRoom](https://app.dealroom.co/companies/snorkel_ai)
 
@@ -1184,7 +1183,7 @@ Fundraised around $25.9 - 27.4MM according to [Crunchbase](https://www.crunchbas
 
 Fundraised $20MM according to [Crunchbase](https://www.crunchbase.com/organization/generally-intelligent) and [DealRoom](https://app.dealroom.co/companies/generally_intelligent)
 
-- [Unlikely AI](https://unlikely.ai) - "An early stage Artificial Intelligence start-up based in London, developing various AI applications and open to contrarian idea development"
+- [Unlikely AI](https://unlikely.ai) - "An early stage Artificial Intelligence start-up based in London, developing various AI applications and open to contrarian idea development."
 
 Fundraised around $18.5 - 21.5MM according to [Crunchbase](https://www.crunchbase.com/organization/unlikely-ai) and [DealRoom](https://app.dealroom.co/companies/unlikely)
 
