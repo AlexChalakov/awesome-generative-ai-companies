@@ -695,6 +695,10 @@ Fundraised $66MM according to [Crunchbase](https://www.crunchbase.com/organizati
 
 #### $5 - 15MM
 
+- [CodiumAI](https://www.codium.ai) - "Generating meaningful tests and code suggestions for busy developers. CodiumAI help you understand and measure how your code behaves right inside your IDE."
+
+Fundraised $10.6MM according to [Crunchbase](https://www.crunchbase.com/organization/codiumai) and [DealRoom](https://app.dealroom.co/companies/codium_1)
+
 - [Anima](https://www.animaapp.com) - "Helps product teams deliver the best version of their vision faster."
 
 Fundraised around $12 - 15MM according to [Crunchbase](https://www.crunchbase.com/organization/anima-app) and [DealRoom](https://app.dealroom.co/companies/anima_app)
