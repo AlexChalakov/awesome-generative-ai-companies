@@ -24,7 +24,7 @@ For all of the companies, due dilligence has been done and sources have been pro
     - [Other Specialized Verticals](#other-specialized-verticals)
 - [Enabling Infrastructure](#enabling-infrastructure)
     - [ML Ops & Dev Tools](#ml-ops--dev-tools)
-    - [Data & Synthetic labeling](#data-synthetic-labeling)
+    - [Data & Synthetic labeling](#data--synthetic-labeling)
     - [Infra / Research / Model Development](#infra--research--model-develop)
 - [References](#references)
 - [Contribute](#contribute)
@@ -258,7 +258,7 @@ Fundraised around $66 - 68.4MM according to [Crunchbase](https://www.crunchbase.
 
 Fundraised around $58 - 63MM according to [Crunchbase](https://www.crunchbase.com/organization/assemblyai) and [DealRoom](https://app.dealroom.co/companies/assemblyai)
 
-- [Speak](https://www.speak.com/) - "Talk about anything and get instant feedback from the world’s most advanced AI language tutor." 
+- [Speak](https://www.speak.com/) - "Talk about anything and get instant feedback from the world's most advanced AI language tutor." 
 
 Fundraised $58.4MM according to [DealRoom](https://app.dealroom.co/companies/speak_3)
 
@@ -378,7 +378,7 @@ Fundraised around $305 - 335M according to [Crunchbase](https://www.crunchbase.c
 
 Fundraised around $12.1 - 12.2MM according to [Crunchbase](https://www.crunchbase.com/organization/rephrase-ai) and [DealRoom](https://app.dealroom.co/companies/rephrase_ai) 
 
-- [Yepic.ai](https://www.yepic.ai/) 1- "Yepic's API allows you to create and personalise videos anywhere." 
+- [Yepic.ai](https://www.yepic.ai/) - "Yepic's API allows you to create and personalise videos anywhere." 
 
 Fundraised around $12MM according to [Pitchbook](https://pitchbook.com/profiles/company/431337-61) 
 
@@ -392,7 +392,7 @@ Fundraised $8MM according to [Crunchbase](https://www.crunchbase.com/organizatio
 
 - [Detail](https://detail.co/) - "Get AI-generated video highlights, import videos to your timeline and record all your audio and video at once, in sync." 
 
-Fundraised around $6.7 - 7MM according to [Crunchbase](https://www.crunchbase.com/organization/viable-fit) and [DealRoom](https://app.dealroom.co/companies/askviable_com_) 
+Fundraised around $6.7 - 7MM according to [Crunchbase](https://www.crunchbase.com/organization/detail-technologies) and [DealRoom](https://app.dealroom.co/companies/detail) 
 
 - [Peech](https://www.peech-ai.com) - "A personalized and automatic video editing and management platform, allows you to automatically create, transcribe, collaborate and optimize videos for seminars, webinars and meetings."
 
@@ -438,7 +438,7 @@ Fundraised around $63 - 67MM according to [Crunchbase](https://www.crunchbase.co
 
 Fundraised around $59MM according to [DealRoom](https://app.dealroom.co/companies/toch)
 
-- [Invideo](https://invideo.io/) - "Simplifies video creation with ready-made templates that you can quickly customize even if you’ve never done it before."
+- [Invideo](https://invideo.io/) - "Simplifies video creation with ready-made templates that you can quickly customize even if you've never done it before."
 
 Fundraised around $52.5MM according to [Crunchbase](https://www.crunchbase.com/organization/detail-technologies) and [DealRoom](https://app.dealroom.co/companies/detail)  
 
@@ -542,7 +542,7 @@ Fundraised around $8.9 - 10.9MM according to [Crunchbase](https://www.crunchbase
 
 - [Fathom](https://fathom.video) - "Fathom records, transcribes, highlights, and summarizes your meetings so you can focus on the conversation. Get setup in minutes."
 
-Fundraised around $5 - 6.7MM according to [Crunchbase](https://www.crunchbase.com/organization/fathom-video) and [DealRoom](https://www.crunchbase.com/organization/fathom-video)
+Fundraised around $5 - 6.7MM according to [Crunchbase](https://www.crunchbase.com/organization/fathom-video) and [DealRoom](https://app.dealroom.co/companies/fathom_1_10)
 
 #### $16 - 40MM
 
@@ -556,7 +556,7 @@ Fundraised $29.1MM according to [Crunchbase](https://www.crunchbase.com/organiza
 
 - [Air](https://www.air.ai) - "Meet Air: the software platform that helps businesses get to market faster, cheaper, and more effectively than ever before."
 
-Fundraised $ according to [Crunchbase](https://www.crunchbase.com/organization/mem-labs) and [DealRoom](https://app.dealroom.co/companies/mem1)
+Fundraised $28 - 70MM according to [Crunchbase](https://www.crunchbase.com/organization/air) and [DealRoom](https://app.dealroom.co/companies/air_labs)
 
 #### $41 - 100M
 
@@ -761,7 +761,7 @@ Fundraised around $12 - 14.5MM according to [Crunchbase](https://www.crunchbase.
 
 Fundraised around $21 - 23MM according to [Crunchbase](https://www.crunchbase.com/organization/popgun) and [DealRoom](https://app.dealroom.co/companies/splash_1_2)
 
-- [Aimi](https://www.aimi.fm) - "Aimi’s interactive music experiences allow fans to interact with music at the composition level, turning each experience into a personalized journey."
+- [Aimi](https://www.aimi.fm) - "Aimi's interactive music experiences allow fans to interact with music at the composition level, turning each experience into a personalized journey."
 
 Fundraised $20MM according to [Crunchbase](https://www.crunchbase.com/organization/aimi-e92a) and [DealRoom](https://app.dealroom.co/companies/aimi)
 
@@ -828,7 +828,7 @@ Fundraised $29.4MM according to [Crunchbase](https://www.crunchbase.com/organiza
 
 Fundraised around $23.6 - 24.8MM according to [Crunchbase](https://www.crunchbase.com/organization/a-alpha-bio) and [DealRoom](https://app.dealroom.co/companies/a_alpha_bio)
 
-- [Abridge](https://www.abridge.com/) - "Summarize and structure health conversations — all through Abridge’s medical AI."
+- [Abridge](https://www.abridge.com/) - "Summarize and structure health conversations — all through Abridge's medical AI."
 
 Fundraised around $22.5 - 27.5MM according to [Crunchbase](https://www.crunchbase.com/organization/abridge-d1a4) and [DealRoom](https://app.dealroom.co/companies/abridge)
 
@@ -866,7 +866,7 @@ Fundraised $99.3MM according to [Crunchbase](https://www.crunchbase.com/organiza
 
 Fundraised $63.4MM according to [Crunchbase](https://www.crunchbase.com/organization/evozyne) and [DealRoom](https://app.dealroom.co/companies/evozyne)
 
-- [Arzeda](https://arzeda.com/) - "Solve some of today’s hardest problems – from food production and better nutrition to sustainable materials and home care – by creating new designer proteins and enzymes that have the limitless potential to create better products for everyone."
+- [Arzeda](https://arzeda.com/) - "Solve some of today's hardest problems – from food production and better nutrition to sustainable materials and home care – by creating new designer proteins and enzymes that have the limitless potential to create better products for everyone."
 
 Fundraised around $48.2 - 51.4MM according to [Crunchbase](https://www.crunchbase.com/organization/arzeda) and [DealRoom](https://app.dealroom.co/companies/arzeda)
 
@@ -1113,10 +1113,6 @@ Fundraised around $30.9 - 31.1MM according to [Crunchbase](https://www.crunchbas
 - [Diveplane](https://diveplane.com/) - "Award winning Privacy Enhancing Technology. Create a safe, accurate synthetic twin of your data. All the value from your data without the risk to data privacy."
 
 Fundraised around $29.3 - 34MM according to [Crunchbase](https://www.crunchbase.com/organization/diveplane) and [DealRoom](https://app.dealroom.co/companies/diveplane)
-
-- [Mostly AI](https://mostly.ai) - "MOSTLY AI can create a smaller-sized, representative subset of your data. The smaller subset covers all the business scenarios for testing. Instead of random sampling, MOSTLY AI's synthetic data platform synthesizes a flexibly sized subset. The synthetic data subset accurately represents all production data."
-
-Fundraised $30MM according to [Crunchbase](https://www.crunchbase.com/organization/mostly-ai) and [DealRoom](https://app.dealroom.co/companies/mostly_ai)
 
 - [Synthesis.AI](https://synthesis.ai/) - "A synthetic data platform for ML engineers to enable the development of more capable AI models."
 
