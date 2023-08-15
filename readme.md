@@ -25,7 +25,7 @@ For all of the companies, due dilligence has been done and sources have been pro
 - [Enabling Infrastructure](#enabling-infrastructure)
     - [ML Ops & Dev Tools](#ml-ops--dev-tools)
     - [Data & Synthetic labeling](#data--synthetic-labeling)
-    - [Infra / Research / Model Development](#infra--research--model-develop)
+    - [Infra / Research / Model Development](#infra--research--model-development)
 - [References](#references)
 - [Contribute](#contribute)
 
@@ -440,7 +440,7 @@ Fundraised around $59MM according to [DealRoom](https://app.dealroom.co/companie
 
 - [Invideo](https://invideo.io/) - "Simplifies video creation with ready-made templates that you can quickly customize even if you've never done it before."
 
-Fundraised around $52.5MM according to [Crunchbase](https://www.crunchbase.com/organization/detail-technologies) and [DealRoom](https://app.dealroom.co/companies/detail)  
+Fundraised around $52.5MM according to [Crunchbase](https://www.crunchbase.com/organization/invideo) and [DealRoom](https://app.dealroom.co/companies/invideo)  
 
 - [D-ID](https://www.d-id.com) - "Create and interact with talking avatars at the touch of a button, to increase engagement and reduce costs. / Develops an AI software which protects identities from face recognition technologies."
 
@@ -1154,7 +1154,7 @@ Fundraised around $135 - 135.3MM according to [Crunchbase](https://www.crunchbas
 
 Fundraised $113M according to [Crunchbase](https://www.crunchbase.com/organization/zilliz) and [DealRoom](https://app.dealroom.co/companies/zilliz)
 
-### Infra / Research / Model Develop
+### Infra / Research / Model Development
 
 #### $5 - 15MM
 
