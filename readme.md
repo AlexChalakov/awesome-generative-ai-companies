@@ -27,7 +27,6 @@ For all of the companies, due diligence has been done and sources have been prov
     - [Data & Synthetic labeling](#data--synthetic-labeling)
     - [Infra / Research / Model Development](#infra--research--model-development)
 
-
 ## Horizontal Application
 
 A horizontal application is any software application that is designed to be used by many different types of users and businesses. It is a type of generic application that has usability and utility within a broad range of users.
@@ -1226,6 +1225,6 @@ Research has been done and validated through:
 - [DealRoom](https://dealroom.co)
 - [Pitchbook](https://pitchbook.com)
 
-## Contribute
+## Contributing
 
 Contributions are always welcome! Read the [contribution guidelines](contributing.md) first.
