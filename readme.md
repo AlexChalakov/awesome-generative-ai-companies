@@ -2,9 +2,7 @@
 
 > A curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount. 
 
-It is a thoroughly researched list of companies that indulges in Generative AI with over $5MM raised as of August 2023.
-It is split into three main categories: Horizontal Application, Vertical Application and Enabling Infrastructure.
-For all of the companies, due diligence has been done and sources have been provided where available.
+It is a thoroughly researched list of companies that indulges in Generative AI with over $5MM raised as of August 2023. It is split into three main categories: Horizontal Application, Vertical Application and Enabling Infrastructure. For all of the companies, due diligence has been done and sources have been provided where available.
 
 ## Contents
 
