@@ -1,4 +1,4 @@
-# Awesome Generative AI Companies [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Generative AI Companies [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Curateds](https://web-git-badge-curateds.vercel.app/images/badge.svg)](https://www.curateds.com)
 
 > A curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount. 
 
