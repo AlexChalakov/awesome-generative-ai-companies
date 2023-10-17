@@ -337,7 +337,7 @@ Fundraised around $19MM according to [Crunchbase](https://www.crunchbase.com/org
 
 Fundraised $18.6MM according to [Crunchbase](https://www.crunchbase.com/organization/uizard-technologies) and [DealRoom](https://app.dealroom.co/companies/uizard)
 
-- [Beautiful.ai](https://www.beautiful.ai) - eautiful.ai is the best presentation software for teams. Stay on brand, level up your presentation design, and collaborate from anywhere in the world.
+- [Beautiful.ai](https://www.beautiful.ai) - Beautiful.ai is the best presentation software for teams. Stay on brand, level up your presentation design, and collaborate from anywhere in the world.
 
 Fundraised $16MM according to [Crunchbase](https://www.crunchbase.com/organization/beautiful-ai) and [DealRoom](https://app.dealroom.co/companies/beautiful_ai)
 
