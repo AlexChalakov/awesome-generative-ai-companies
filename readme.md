@@ -1214,6 +1214,10 @@ Fundraised $ according to [Crunchbase](https://www.crunchbase.com/organization/c
 
 Fundraised around $119MM according to [Crunchbase](https://www.crunchbase.com/organization/ai21) and [DealRoom](https://app.dealroom.co/companies/ai21)
 
+### LLM Orchestration
+
+- [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.
+
 ## Footnotes
 
 All credits for the initial research and the inspiration behind the list go to [Kelvin Mu](https://www.linkedin.com/in/kelvinmu/). Check out his infographic [here](https://www.linkedin.com/feed/update/urn:li:activity:7043394287820017664/).
