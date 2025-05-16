@@ -899,6 +899,11 @@ Fundraised $104MM according to [Crunchbase](https://www.crunchbase.com/organizat
 
 #### $5 - 15MM
 
+- [Keploy AI](https://keploy.io/) - Vertical AI Agent, built specifically for testing. Keploy provides an AI-powered Unit Testing Agent that generates stable, useful unit tests directly in your GitHub PRs and VSCode, covering what matters. It also offers AI-powered API testing, automatically generating test cases based on your API schemas.
+
+
+Fundraised around $1.3MM according to [Crunchbase](https://www.crunchbase.com/organization/hybridk8s)
+
 - [Ross Intelligence](https://www.ycombinator.com/companies/ross-intelligence#:~:text=%3A%2F%2Frossintelligence.com-,ROSS%20is%20an%20AI%2Dpowered%20legal%20research%20platform%20that%20can,legal%20services%20around%20the%20world.) - Our mission is to develop technologies that increase access to legal services around the world. We are going after the $8B legal research market with our AI-powered legal research platform that allows lawyers to research in 80% less time and find cases they would have otherwise missed.
 
 Fundraised around $13.1MM according to [Crunchbase](https://www.crunchbase.com/organization/ross-intelligence) and [DealRoom](https://app.dealroom.co/companies/ross_intelligence) 
@@ -972,6 +977,11 @@ Enabling Infrastructure applications are unique software platforms have been bui
 ### ML Ops & Dev Tools
 
 #### $5 - 15MM
+
+- [Keploy](https://keploy.io) -  Keploy creates backend API tests with built-in mocks or stubs by recording your application's network calls, making your testing process faster and more efficient, without writing any code
+
+Fundraised around $1.3MM according to [Crunchbase](https://www.crunchbase.com/organization/hybridk8s)
+
 
 - [Deepset](https://www.deepset.ai) - Build NLP features into your product. Implement semantic search, question answering or document similarity quickly and reliably with deepset Cloud.
 
