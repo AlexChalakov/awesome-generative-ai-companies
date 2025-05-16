@@ -978,7 +978,7 @@ Enabling Infrastructure applications are unique software platforms have been bui
 
 #### $5 - 15MM
 
-- [Keploy] (https://keploy.io) -  Keploy creates backend API tests with built-in mocks or stubs by recording your application's network calls, making your testing process faster and more efficient, without writing any code
+- [Keploy](https://keploy.io) -  Keploy creates backend API tests with built-in mocks or stubs by recording your application's network calls, making your testing process faster and more efficient, without writing any code
 
 Fundraised around $1.3MM according to [Crunchbase](https://www.crunchbase.com/organization/hybridk8s)
 
