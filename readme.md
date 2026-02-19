@@ -539,6 +539,10 @@ Fundraised around $8.9 - 10.9MM according to [Crunchbase](https://www.crunchbase
 
 Fundraised around $5 - 6.7MM according to [Crunchbase](https://www.crunchbase.com/organization/fathom-video) and [DealRoom](https://app.dealroom.co/companies/fathom_1_10)
 
+- [Taskade](https://taskade.com) - AI-powered workspace for building custom AI agents, workflows, and apps. Multi-model support with real-time collaboration.
+
+Fundraised around $5MM+ according to [Crunchbase](https://www.crunchbase.com/organization/taskade)
+
 #### $16 - 40MM
 
 - [Fireflies](https://fireflies.ai) - Uses generative AI to bring ChatGPT to meetings. Generate transcripts and smart summaries for Zoom, Google Meet, Microsoft Teams and many more.
