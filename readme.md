@@ -1009,6 +1009,8 @@ Fundraised around $5 - 6MM according to [Pitchbook](https://pitchbook.com/profil
 
 Fundraised around $5MM according to [Pitchbook](https://pitchbook.com/profiles/company/435870-91#overview)
 
+- [Future AGI](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evaluation, simulation, datasets, gateway, and guardrails in one feedback loop.
+
 #### $16 - 40MM
 
 - [Pinecone](https://www.pinecone.io) - Fully managed vector database that makes it easy to add vector search to production applications.
