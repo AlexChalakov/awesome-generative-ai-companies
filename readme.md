@@ -447,6 +447,10 @@ Fundraised around $22 - 48MM according to [Crunchbase](https://www.crunchbase.co
 
 ### 3D, Simulations & XR
 
+#### Less than $5MM
+
+- [Pixal3D](https://pixal3d.ai) - AI-powered 3D model generator that creates stunning 3D models from text and images. Free tier available.
+
 #### $5 - 15MM
 
 - [Kinetix](https://www.kinetix.tech) - It allows with a great ease to create qualitative animated avatars that have given more life to Exclusible metaverse spaces!
