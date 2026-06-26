@@ -124,6 +124,7 @@ Fundraised $42.5MM according to [Crunchbase](https://www.crunchbase.com/organiza
 #### $100M+ Raised
 
 - [Grammarly](https://app.grammarly.com) - Digital writing assistant.
+- [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 
 Fundraised $400M according to [Crunchbase](https://www.crunchbase.com/organization/grammarly) and [DealRoom](https://app.dealroom.co/companies/grammarly)
 
