@@ -291,6 +291,8 @@ Fundraised around $151MM according to [Crunchbase](https://www.crunchbase.com/or
 
 Fundraised around $112 - 113MM according to [Crunchbase](https://www.crunchbase.com/organization/replicant-inc) and [DealRoom](https://app.dealroom.co/companies/replicant)
 
+- [Workforce Wave](https://workforcewave.com) - AI voice receptionist for small businesses providing 24/7 call answering, appointment booking, and lead capture.
+
 ### Image, Visual, Design & Creative Work
 
 #### $5 - 15MM
