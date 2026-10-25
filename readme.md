@@ -1226,6 +1226,7 @@ Research has been done and validated through:
 - [Crunchbase](https://www.crunchbase.com/)
 - [DealRoom](https://dealroom.co)
 - [Pitchbook](https://pitchbook.com)
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 ## Contributing
 
