@@ -293,6 +293,8 @@ Fundraised around $112 - 113MM according to [Crunchbase](https://www.crunchbase.
 
 ### Image, Visual, Design & Creative Work
 
+- [Ideoy](https://ideoy.ai) — AI photo-to-video meme templates: turn a selfie into short vertical remakes of trending memes.
+
 #### $5 - 15MM
 
 - [Simplify](https://simplified.com/ai-writer/) - Simplified AI Writer is a free ai copywriting assistant that generates high-quality content for blogs, articles, product descriptions, websites & social media.
