@@ -1181,6 +1181,9 @@ Fundraised around $18.5 - 21.5MM according to [Crunchbase](https://www.crunchbas
 #### $41 - 100M
 
 - [Runway](https://runwayml.com) - Everything you need to make anything you want. Runway is a new kind of creative suite. One where AI is a collaborator and anything you can imagine can be created.
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 
 Fundraised $95.5MM according to [Crunchbase](https://www.crunchbase.com/organization/runwayml) and [DealRoom](https://app.dealroom.co/companies/runwayml)
 
